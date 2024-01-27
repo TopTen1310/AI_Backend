@@ -3,8 +3,11 @@
 .github
 
 # API Server
-__pycache__
+__pycache__/
+venv/
 
 # Front-end
 frontend
 node_modules
+
+.env
